@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_58872_needit.my_table_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>my_table_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 19:10:12</sys_created_on>
+        <sys_id>ae2512422f752010867bea5ef699b67f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.my_table_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_ae2512422f752010867bea5ef699b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 19:10:12</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a8fa69eadbad40900b9d21c4059619ea</instance_id>
+        <instance_name>dev95935</instance_name>
+        <name>sys_user_role_ae2512422f752010867bea5ef699b67f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_58872_needit.my_table_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>my_table_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-20 19:10:12</sys_created_on><sys_id>ae2512422f752010867bea5ef699b67f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.my_table_user</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_user_role_ae2512422f752010867bea5ef699b67f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-20 19:10:12</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1617261222</payload_hash>
+        <record_name>x_58872_needit.my_table_user</record_name>
+        <reverted_from/>
+        <source>75e31a8e2f352010867bea5ef699b66b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 19:10:12</sys_created_on>
+        <sys_id>ea2516422f752010867bea5ef699b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177213450450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 19:10:12</sys_updated_on>
+        <type>Role</type>
+        <update_guid>e225164298752010045d49ca3d054e43</update_guid>
+        <update_guid_history>e225164298752010045d49ca3d054e43:-1617261222</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit.my_table_user">59951e422f752010867bea5ef699b6bd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 19:12:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>7bd1e6654465466d956557e24615be31</sys_id>
+        <sys_metadata>ae2512422f752010867bea5ef699b67f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.my_table_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_ae2512422f752010867bea5ef699b67f</sys_update_name>
+        <sys_update_version display_value="sys_user_role_ae2512422f752010867bea5ef699b67f">ea2516422f752010867bea5ef699b643</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 19:12:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
